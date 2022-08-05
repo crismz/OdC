@@ -1,0 +1,2 @@
+# OdC
+Organización del computador
